@@ -1,3 +1,3 @@
-module github.com/boltdb/bolt
+module github.com/tickstep/bolt
 
 go 1.14
